@@ -2,8 +2,7 @@
 
 **CareerNode** is a personal, AI-powered job application tracking system designed for engineers. It connects directly to your Gmail to automatically scan for application updates, extracts details using Gemini AI, and manages your entire job hunt pipeline from a sleek, localized dashboard.
 
-![CareerNode Dashboard](<img width="1920" height="1031" alt="image" src="https://github.com/user-attachments/assets/22785f62-88ee-48ac-bed4-b18f9a65a6a6" />) *(You can add a screenshot of your app here later)*
-
+![CareerNode Dashboard](./frontend/public/dashboard-preview.png) 
 ---
 
 
