@@ -5,7 +5,6 @@
 ![CareerNode Dashboard](./frontend/public/dashboard-preview.png) 
 ---
 
-
 ## 🌟 Key Features
 
 - **📩 Automated Email Sweeping:** Connects via IMAP to your Gmail account. It scans for application receipts, assessment invites, and interview schedules, automatically updating your pipeline.
